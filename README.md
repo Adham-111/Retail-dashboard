@@ -4,6 +4,11 @@
 Project Goal: To leverage SuperStore Retail Sales data to identify and visualize "weak areas" within the business operations, specifically concerning sales and profit performance. The ultimate aim is to provide actionable insights for strategic improvements.
 
 
+
+![{B98486E4-8C0A-4078-8A37-4A9D2942FDBA} png](https://github.com/user-attachments/assets/dd81c613-d83e-4288-b155-8fe504c3b571)
+![{BEAC4FE4-7CD7-470B-B92F-25A00F1D9D36} png](https://github.com/user-attachments/assets/fb80b7e0-0744-451c-8288-0556c89555d7)
+
+
 ## Key Steps Taken in the Project:
 
 **1-Data Acquisition & Preparation:**
@@ -93,7 +98,6 @@ Cost-Benefit Analysis of Shipping Modes: Conduct an analysis of the actual costs
 
 Customer Segment Targeting: Tailor marketing and sales efforts to focus on the most profitable customer segments ("Consumer" seems dominant) while evaluating strategies to improve profitability or engagement with less profitable segments.
 
-![{B98486E4-8C0A-4078-8A37-4A9D2942FDBA} png](https://github.com/user-attachments/assets/dd81c613-d83e-4288-b155-8fe504c3b571)
-![{BEAC4FE4-7CD7-470B-B92F-25A00F1D9D36} png](https://github.com/user-attachments/assets/fb80b7e0-0744-451c-8288-0556c89555d7)
+
 
  
